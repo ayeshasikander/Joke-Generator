@@ -2,6 +2,10 @@
 
 Welcome to the Joke Generator project! This delightful mini JavaScript project is crafted to bring a grin to your face by fetching random jokes using the [icanhazdadjoke](https://icanhazdadjoke.com/) API.
 
+[Live] (https://joke-generator-app-200.netlify.app/)
+
+![Demo](./thumb.png)
+
 ## How It Works
 
 1. **HTML & CSS:**
@@ -31,7 +35,7 @@ To deploy this project on GitHub, follow these steps:
 2. **Clone the Repository:**
    - Clone your newly created repository to your local machine using the command:
      ```
-     git clone https://github.com/your-username/your-repository.git
+     git clone https://github.com/ayeshasikander/Joke-Generator.git
      ```
 
 3. **Copy Files:**
@@ -50,17 +54,12 @@ To deploy this project on GitHub, follow these steps:
    - Navigate to the "Settings" tab.
    - Scroll down to the "GitHub Pages" section.
    - Choose the branch you want to deploy (e.g., master).
-   - Your Joke Generator is now live at ``!
+   - Your Joke Generator is now live at `https://github.com/ayeshasikander/Joke-Generator.git`!
 
-## Contributors
-
-- [Your Name]
-- [Any other contributors]
 
 ## Acknowledgments
 
 A heartfelt thank you to the whimsical minds behind [icanhazdadjoke](https://icanhazdadjoke.com/) for generously supplying the laughter-infused material for this project.
 
-Feel free to contribute, share, and propagate the joy of laughter with the Joke Generator! If you have any suggestions or improvements, don't hesitate to open an issue or submit a pull request.
 
 Happy coding and keep on smiling! 😄
